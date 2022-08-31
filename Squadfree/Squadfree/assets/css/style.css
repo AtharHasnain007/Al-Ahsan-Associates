@@ -455,8 +455,9 @@ section {
   text-shadow: #c5a471;
 }
 
-.section-title p {
+.section-title li {
   margin-bottom: 0;
+  color: #c5a471;
 }
 
 /*--------------------------------------------------------------
@@ -725,19 +726,19 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(103, 176, 209, 0), rgba(255, 255, 255, 0)), url("../img/imgs1/Main-2.jpg") fixed center center;
+  background: linear-gradient(rgba(19, 54, 70, 0.315), rgba(19, 84, 104, 0.137)), url("../img/imgs1/Main-2.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
 
 .cta h3 {
-  color: #000000;
+  color:#c5a471 ;
   font-size: 28px;
   font-weight: 700;
 }
 
 .cta p {
-  color: #000000;
+  color: #c5a471;
 }
 
 .cta .cta-btn {
