@@ -87,7 +87,7 @@ h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 24px 0;
-  background: rgba(103, 176, 209, 0.8);
+  background: #cdb186;
 }
 
 #header.header-transparent {
@@ -835,7 +835,7 @@ section {
   color: #fff;
   font-size: 28px;
   text-align: center;
-  background: rgba(103, 176, 209, 0.75);
+  background:#cdb186;
   transition: 0.3s;
   width: 50%;
 }
